@@ -61,6 +61,9 @@ I'm a Population Health Specialist turned Software Engineer with a passion for b
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=your-linkedin-url)](your-linkedin-url)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=your-twitter-url)](your-twitter-url)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=your-instagram-url)](your-instagram-url)
+![Email Badge](https://img.shields.io/badge/-emailaddress-333333?style=flat-square&logo=Gmail&logoColor=white)
+![Phone Badge](https://img.shields.io/badge/-PhoneNumber-333333?style=flat-square&logo=Phone&logoColor=white)
+
 
 
 ## ⚡ Fun fact: ...
