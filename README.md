@@ -46,6 +46,34 @@ I'm a Population Health Specialist turned Software Engineer with a passion for b
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1D1D1D?style=for-the-badge&logo=security&logoColor=white)
 
+## 🚀 Projects
+
+### Project 1: [Project Name Here](project-link-here)
+A brief description of what the project does and what skills you demonstrated or technologies you used. Highlight any unique challenges you faced and how you overcame them.
+
+- **Technologies Used:** HTML, CSS, JavaScript, Node.js, Express.js
+- **Key Features:** Real-time chat, Payment gateway integration, Responsive design
+
+![Project Image](link-to-project-image)
+
+### Project 2: [Project Name Here](project-link-here)
+Describe the project and your contribution to it. Mention the technologies used and any interesting stats or feedback received.
+
+- **Technologies Used:** Python, Flask, MongoDB, Docker
+- **Key Features:** API development, Containerization, User authentication
+
+![Project Image](link-to-project-image)
+
+### Project 3: [Project Name Here](project-link-here)
+A concise explanation of the project's purpose, your role in it, and the impact it had. This could be a personal project, contribution to open source, or a collaborative work.
+
+- **Technologies Used:** React, AWS, Terraform, Cybersecurity best practices
+- **Key Features:** Scalable infrastructure, Secure data handling, Single Page Application (SPA) design
+
+![Project Image](link-to-project-image)
+
+
+
 
 ## 👯 I’m looking to collaborate on ...
 
