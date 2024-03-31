@@ -1,7 +1,5 @@
 # Hello, World! 👋 I'm Melvin.
 
-![Alt text for the GIF]([[URL_of_the_GIF.gif](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47o6hd6nanjtuga7k9ykoh26nyltr43ytzp2a0qg4k&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://giphy.com/gifs/visuals-network-connectivity-5owNSuvkqgLg1iqNrF)))
-
 
 I'm a Population Health Specialist turned Software Engineer with a passion for building solutions that make a difference. After years in health, I took a leap into the tech world with a full-stack bootcamp and haven't looked back since. Currently, I'm expanding my cybersecurity knowledge through a Google course, aiming to blend my health expertise with tech to innovate in population health technologies.
 
