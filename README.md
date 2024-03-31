@@ -54,10 +54,10 @@ A brief description of what the project does and what skills you demonstrated or
 - **Technologies Used:** HTML, CSS, JavaScript, Node.js, Express.js
 - **Key Features:** Real-time chat, Payment gateway integration, Responsive design
 
-![Robot 🤖 Gladiator](![image](https://github.com/melwel74/melwel74/assets/88204914/c7559b09-c8d5-4508-85f7-961a36222dbe)
+![](![image](https://github.com/melwel74/melwel74/assets/88204914/c7559b09-c8d5-4508-85f7-961a36222dbe)
 )
 
-### Project 2: [Project Name Here](project-link-here)
+### Project 2: [PRobot 🤖 Gladiator](project-link-here)
 Describe the project and your contribution to it. Mention the technologies used and any interesting stats or feedback received.
 
 - **Technologies Used:** Python, Flask, MongoDB, Docker
