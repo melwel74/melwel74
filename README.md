@@ -48,7 +48,8 @@ I'm a Population Health Specialist turned Software Engineer with a passion for b
 
 ## 🚀 Projects
 
-### Project 1:![🌮 Taco Locator]([project-link-here](https://github.com/melwel74/Taco-Loca-tor?tab=readme-ov-file))
+### Project 1:[🌮 Taco Locator](https://github.com/melwel74/Taco-Loca-tor?tab=readme-ov-file)
+
 A brief description of what the project does and what skills you demonstrated or technologies you used. Highlight any unique challenges you faced and how you overcame them.
 
 - **Technologies Used:** HTML, CSS, JavaScript, Node.js, Express.js
