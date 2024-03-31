@@ -103,7 +103,7 @@ A concise explanation of the project's purpose, your role in it, and the impact 
 
 ## ⚡ Fun fact: 
 
-- I love gaming and am a die-hard Philadelphia Eagles fan. Go Eagles!
+- I love gaming and am a die-hard Philadelphia Eagles fan. Go Eagles! 🦅 
 - I originally hail from Mississippi but have found my second home in Madison, Wisconsin.
 
 ## 📝 My Goals 
