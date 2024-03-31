@@ -56,11 +56,12 @@ I'm a Population Health Specialist turned Software Engineer with a passion for b
 - My journey from health specialist to software engineer.
 - Tips for learning new technologies and staying motivated.
 
-## 📫 How to reach me: ...
+## 📫 How to reach me:
 
-- LinkedIn: [[linkedin.com/in/melvin-welton-695b5898](https://www.linkedin.com/in/melvin-welton-695b5898?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYJVcati5SXisM5w1oCkSrA%3D%3D)]
-- Twitter: [Your Twitter Handle]
-- Email: [nivlem65@gmail.com]
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=your-linkedin-url)](your-linkedin-url)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=your-twitter-url)](your-twitter-url)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=your-instagram-url)](your-instagram-url)
+
 
 ## ⚡ Fun fact: ...
 
