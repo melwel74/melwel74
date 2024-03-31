@@ -58,9 +58,9 @@ I'm a Population Health Specialist turned Software Engineer with a passion for b
 
 ## 📫 How to reach me: ...
 
-- LinkedIn: [Your LinkedIn Profile URL]
+- LinkedIn: [linkedin.com/in/melvin-welton-695b5898]
 - Twitter: [Your Twitter Handle]
-- Email: [Your Email Address]
+- Email: [nivlem65@gmail.com]
 
 ## ⚡ Fun fact: ...
 
