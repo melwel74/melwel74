@@ -6,7 +6,8 @@ I'm a Population Health Specialist turned Software Engineer with a passion for b
 
 - A project that leverages AI to predict health trends within communities.
 - Enhancing my full-stack development skills with a focus on React and Node.js.
-- My cybersecurity toolkit through Google's 6-month course.
+- I've completed my cybersecurity course with Google's 6-month program and am now preparing for the CompTIA Security+ certification
+
 
 ## 🌱 I’m currently learning ...
 
