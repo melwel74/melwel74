@@ -95,7 +95,7 @@ Describe the project and your contribution to it. Mention the technologies used 
 
 ![](link-to-project-image)
 
-### Project 3: [🔐 Password Generator](project-link-here)
+### Project 3: [🔐 Password Generator]([project-link-here](https://melwel74.github.io/password-generator/))
 A concise explanation of the project's purpose, your role in it, and the impact it had. This could be a personal project, contribution to open source, or a collaborative work.
 
 - **Technologies Used:** React, AWS, Terraform, Cybersecurity best practices
