@@ -9,6 +9,35 @@ I'm a Population Health Specialist turned Software Engineer with a passion for b
 - Enhancing my full-stack development skills with a focus on React and Node.js.
 - I've completed my cybersecurity course with Google's 6-month program and am now preparing for the CompTIA Security+ certification
 
+# My Progress
+
+Welcome to my GitHub! Here's a quick snapshot of my skills development and project completion progress:
+
+## Skills Development Progress
+
+### Frontend Development: 70%
+🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥
+
+### Backend Development: 80%
+🟩🟩🟩🟩🟩🟩🟩🟩🟥🟥
+
+### Cybersecurity: 50%
+🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥
+
+### Cloud Technologies: 40%
+🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥
+
+## Project Completion Progress
+
+### Taskinator: 90%
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟥
+
+### Other Projects: 60%
+🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥
+
+Feel free to check out my repositories for more details on my projects and to see my progress in real-time!
+
+
 
 ## 🌱 I’m currently learning 
 
