@@ -93,9 +93,9 @@ Describe the project and your contribution to it. Mention the technologies used 
 - **Technologies Used:** Python, Flask, MongoDB, Docker
 - **Key Features:** API development, Containerization, User authentication
 
-![🔐 Password Generator](link-to-project-image)
+![](link-to-project-image)
 
-### Project 3: [Project Name Here](project-link-here)
+### Project 3: [🔐 Password Generator](project-link-here)
 A concise explanation of the project's purpose, your role in it, and the impact it had. This could be a personal project, contribution to open source, or a collaborative work.
 
 - **Technologies Used:** React, AWS, Terraform, Cybersecurity best practices
