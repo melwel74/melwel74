@@ -119,12 +119,6 @@ A concise explanation of the project's purpose, your role in it, and the impact 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=your-instagram-url)](your-instagram-url)
 
 
-
-## ⚡ Fun fact: 
-
-- I love gaming and am a die-hard Philadelphia Eagles fan. Go Eagles! 🦅 
-- I originally hail from Mississippi but have found my second home in Madison, Wisconsin.
-
 ## 📝 My Goals 
 
 - To contribute to projects that bridge the gap between tech and healthcare.
