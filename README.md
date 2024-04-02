@@ -27,17 +27,6 @@ Welcome to my GitHub! Here's a quick snapshot of my skills development and proje
 ### Cloud Technologies: 40%
 🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥
 
-## Project Completion Progress
-
-### Taskinator: 90%
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟥
-
-### Other Projects: 60%
-🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥
-
-Feel free to check out my repositories for more details on my projects and to see my progress in real-time!
-
-
 
 ## 🌱 I’m currently learning 
 
