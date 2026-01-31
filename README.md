@@ -1,28 +1,132 @@
-# Hello, World! 👋 I'm Melvin.
+# 👨🏾‍💻 Melvin Welton | Cybersecurity & Cloud Security Portfolio
 
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-informational?style=flat&logo=comptia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Command%20Line-blue?style=flat&logo=linux)
+![Cloud](https://img.shields.io/badge/Cloud-Security%20Fundamentals-lightgrey?style=flat&logo=cloudflare)
+![SIEM](https://img.shields.io/badge/SIEM-Log%20Analysis-orange?style=flat)
+![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=flat&logo=microsoftazure)
+![JavaScript](https://img.shields.io/badge/JavaScript-Fundamentals-yellow?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-5-red?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)
 
-[# <a href="https://www.linkedin.com/in/melvinwelton/">MELVIN WELTON</a>'s IT and ](https://www.linkedin.com/in/melvin-welton-695b5898/)Cybersecurity Project Portfolio 🔐
+---
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+## 🚀 About Me
+Cybersecurity-focused professional with a strong foundation in **security operations, vulnerability management, cloud fundamentals, and technical troubleshooting**.  
 
+I’m hands-on, process-driven, and security-first — building real skills through labs, simulations, and continuous learning rather than relying on theory alone.
 
-## ⚠️ Vulnerability Management Projects
+My background blends **security, IT, data, and development**, allowing me to see problems from both a technical and operational perspective.
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+---
 
-## 🚨 Threat Hunting and Security Operations
+## 📊 GitHub Stats
+![Melvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+---
 
-<hr/>
+## 🔐 Cybersecurity Skills
+- Security fundamentals (CIA Triad, risk, threats, vulnerabilities)
+- Vulnerability management lifecycle & remediation workflows
+- SIEM fundamentals, log analysis, and alert triage
+- Network security: firewalls, ACLs, traffic analysis
+- Incident response phases and escalation
+- Linux command-line navigation and system analysis
+- CompTIA Security+ (SY0-701) aligned knowledge
 
-## 🤳 Connect With Me
+---
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## ☁️ Cloud & Infrastructure
+- Cloud fundamentals (IAM, networking, monitoring)
+- Azure security concepts and exposure
+- Virtual lab environments for security testing
+- Understanding of cloud security risks and controls
+
+---
+
+## 💻 Development & Technical Skills
+- Frontend fundamentals: HTML, CSS, JavaScript
+- Backend concepts and API awareness
+- Debugging and troubleshooting applications
+- Strong systems-level thinking across software and infrastructure
+
+---
+
+## 🧪 Featured Cybersecurity Projects
+
+### 🔍 Threat Hunting & SIEM Labs
+- Log analysis and detection exercises
+- Identifying suspicious authentication patterns
+- Investigating indicators of compromise (IOCs)
+- Writing detection logic and queries
+
+➡️ Repo: `threat-hunting-labs`
+
+---
+
+### 🛡️ Vulnerability Management Project
+- Asset discovery and vulnerability scanning
+- Risk prioritization and remediation planning
+- Documentation of findings and fixes
+- Simulated enterprise vulnerability workflows
+
+➡️ Repo: `vulnerability-management-lab`
+
+---
+
+### ☁️ Cloud Security Lab
+- Identity and access management concepts
+- Secure configuration fundamentals
+- Monitoring and logging in cloud environments
+- Understanding shared responsibility model
+
+➡️ Repo: `cloud-security-fundamentals`
+
+---
+
+### 💻 Coding & Automation Fundamentals
+- JavaScript fundamentals
+- HTML/CSS projects
+- Intro automation concepts for security use cases
+
+➡️ Repo: `security-coding-fundamentals`
+
+---
+
+## 📊 Process, Documentation & Operations
+- SOP and Standard of Work creation
+- Workflow and process optimization
+- Dashboard and tracker development
+- Translating technical findings into clear documentation
+- Strong attention to detail and compliance
+
+---
+
+## 🧠 Professional Strengths
+- Security-first mindset
+- Highly disciplined self-learner
+- Analytical and detail-oriented
+- Strong communicator across technical & non-technical teams
+- Comfortable in fast-changing environments
+
+---
+
+## 🎯 Career Direction
+Actively pursuing roles in:
+- SOC Analyst
+- Vulnerability Management
+- Cloud Security
+- Security Operations (Blue Team)
+
+Focused on **hands-on defense, detection, and continuous improvement**.
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *(add your link)*
+- 🧑🏾‍💻 GitHub: *(you’re here)*
+
 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
