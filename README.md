@@ -131,7 +131,7 @@ Focused on **hands-on defense, detection, and continuous improvement**.
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: [*(add your link)*](https://www.linkedin.com/in/weltonconsultingllc?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bg%2FO1T%2BUwT8Gu3H%2BJjv7YAw%3D%3D)
-- 🧑🏾‍💻 GitHub: *(you’re here)*
+- 🧑🏾‍💻 GitHub: *([you’re here](https://github.com/melwel74))*
 
 
 [twitter]: https://twitter.com/___________
