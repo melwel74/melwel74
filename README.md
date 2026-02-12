@@ -33,7 +33,7 @@ My background blends **security, IT, data, and development**, allowing me to see
 - Network security: firewalls, ACLs, traffic analysis
 - Incident response phases and escalation
 - Linux command-line navigation and system analysis
-- CompTIA Security+ (SY0-701) aligned knowledge
+- CompTIA Security+ (SY0-701)
 
 ---
 
