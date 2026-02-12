@@ -25,10 +25,11 @@ My background blends **security, IT, data, and development**, allowing me to see
 ---
 
 ## 📊 GitHub Stats
-![Melvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![Melvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melwel74&show_icons=true&theme=github_dark)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melwel74&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melwel74&layout=compact&theme=github_dark)
+
 
 ---
 
